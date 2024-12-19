@@ -5,7 +5,7 @@ We would like you to demonstrate your Web-GIS Frontend development skills. Using
 You will be asked to demo it running in your local or you are also welcome to deploy it in a free server of your choice and share a link to it so we can see your work. We also want to see the code pushed to a new branch in this repo. 
 
 Here is all the data you will need:
-1. H3 Tilesets hosted in BigQuery. Use the service account [service_account_na-core-dev-17e7e0e2dfae.json](https://github.com/rafael-na/web-gis-h3/blob/main/service_account_na-core-dev-17e7e0e2dfae.json) to access these Tilesets. Let me know in case you face any issue accessing these.
+1. H3 Tilesets hosted in BigQuery. Use the service account (provided via e-mail) to access these Tilesets.
 - `na-core-dev:test_layers.L4_1_species_rarity_weighted_richness_tileset_copy`
 - `na-core-dev:test_layers.L4_2_biodiversity_intactness_tileset_copy`
 
